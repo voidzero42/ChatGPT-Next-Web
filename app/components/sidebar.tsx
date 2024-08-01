@@ -162,7 +162,7 @@ export function SideBar(props: { className?: string }) {
           您的个人AI助理.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
-          <Jw2Icon />
+          <ChatGptIcon />
         </div>
       </div>
 
