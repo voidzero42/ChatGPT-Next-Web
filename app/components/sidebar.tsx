@@ -6,7 +6,7 @@ import { IconButton } from "./button";
 import SettingsIcon from "../icons/settings.svg";
 import GithubIcon from "../icons/chatgpt.svg";
 // import ChatGptIcon from "../icons/github.svg";
-import ChatGptIcon from "../icons/chatgpt.png";
+import Jw2Icon from "../icons/jw2.svg";
 import AddIcon from "../icons/add.svg";
 import CloseIcon from "../icons/close.svg";
 import DeleteIcon from "../icons/delete.svg";
@@ -162,7 +162,7 @@ export function SideBar(props: { className?: string }) {
           您的个人AI助理.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
-          <ChatGptIcon />
+          <Jw2Icon />
         </div>
       </div>
 
